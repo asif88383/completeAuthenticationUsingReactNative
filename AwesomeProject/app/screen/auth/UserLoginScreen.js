@@ -11,14 +11,7 @@ const UserLoginScreen = () => {
       <Text>UserLoginScreen</Text>
       <Text>UserLoginScreen</Text>
       <Text>UserLoginScreen</Text>
-      <Text>UserLoginScreen</Text>
-      <Text>UserLoginScreen</Text>
         <Text>UserLoginScreen</Text>
-        <Text>UserLoginScreen</Text>
-        <Text>UserLoginScreen</Text>
-        <Text>UserLoginScreen</Text>
-        <Text>UserLoginScreen</Text>
-        <HomeScreen/>
     </View>
     
   )
