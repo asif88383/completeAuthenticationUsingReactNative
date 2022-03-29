@@ -1,5 +1,6 @@
 import { View, Text } from 'react-native'
 import React from 'react'
+import HomeScreen from '../shop/HomeScreen'
 
 const UserLoginScreen = () => {
   return (
@@ -16,6 +17,8 @@ const UserLoginScreen = () => {
         <Text>UserLoginScreen</Text>
         <Text>UserLoginScreen</Text>
         <Text>UserLoginScreen</Text>
+        <Text>UserLoginScreen</Text>
+        <HomeScreen/>
     </View>
     
   )
